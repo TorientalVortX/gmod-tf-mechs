@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+$basetexture "ui/menu/items/phaseshift"
+$spriteorientation "vp_parallel"
+$translucent 1
+$ignorez 1
+}

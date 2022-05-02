@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ui/titan_cockpit_hud"
+	"$translucent" 1
+}
